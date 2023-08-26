@@ -1,0 +1,13 @@
+INDEX VERSION 1.134
+D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1686169984.index
+\SpringMVC\src\main\java
+D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\893552416.index
+\SpringMVC\src\main\resources
+D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2584099767.index
+\SendingDataControllerToView\src\main\java
+D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\679530387.index
+\SpringMVC1\src\main\resources
+D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\238545544.index
+\SpringMVC1\src\main\java
+D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2162858377.index
+\SendingDataControllerToView\src\main\resources

@@ -1,0 +1,18 @@
+package controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class ControllerToView {
+
+	@RequestMapping("/home")
+	public String home(Model model) {
+		System.out.println(model.getClass().getName());
+		model.addAttribute("name", "Himanshu Kumar");
+		model.addAttribute("age", "21");
+		model.addAttribute("city", "New Delhi");
+		return "home";
+	}
+}
