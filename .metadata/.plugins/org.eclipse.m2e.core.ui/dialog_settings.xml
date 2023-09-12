@@ -26,17 +26,20 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.hibernate.todo"/>
 			<item value="com.controllerToview"/>
 			<item value="com.springMVC"/>
 			<item value="com.springMVC1.SpringMVC1"/>
 			<item value="com.springMVC1"/>
 		</list>
 		<list key="groupId">
+			<item value="com.hibernate.todo"/>
 			<item value="com.controllerToview"/>
 			<item value="com.springMVC"/>
 			<item value="com.springMVC1"/>
 		</list>
 		<list key="artifactId">
+			<item value="NoteTaker"/>
 			<item value="SendingDataControllerToView"/>
 			<item value="SpringMVC"/>
 			<item value="SpringMVC1"/>

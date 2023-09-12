@@ -1,4 +1,6 @@
 INDEX VERSION 1.134
+D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3913414311.index
+\NoteTaker\src\main\java
 D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1686169984.index
 \SpringMVC\src\main\java
 D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\893552416.index
@@ -7,6 +9,8 @@ D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2584099767.i
 \SendingDataControllerToView\src\main\java
 D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\679530387.index
 \SpringMVC1\src\main\resources
+D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2389236961.index
+\NoteTaker\src\main\resources
 D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\238545544.index
 \SpringMVC1\src\main\java
 D:\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2162858377.index
